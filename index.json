@@ -1,0 +1,14 @@
+{
+  "self": {
+    "parent": null,
+    "f_order": [],
+    "a_order": [
+      "test_article"
+    ]
+  },
+  "test_article": {
+    "pinned": false,
+    "mtime": "2021-02-09T21:32:15",
+    "url": "./archive\\test_article\\article.html"
+  }
+}
