@@ -2,10 +2,11 @@
 "I swear I will NEVER drive long distances as long as I live." I kid you not, this is what I told myself, repeatedly, whenever I would drive home from university after my *two* hour drive. No sprawling traffic. No impending appointments to rush home to. My parents were even paying for the gas. Just a simple, 100 mile drive. So how on Earth did I find myself on the precipice of what would end up being a 7,800+ mile, 22 day roadtrip?
 
 ## A Season of Responsiveness
+<!-- This section is still in progress, and is just a summary of where I want to take it
 I'm socially dense as a rock; I want to change that. I promised myself to start listening to others and try to perceive them as they want to communicate to me. As such, I framed the next stage of my self-improvement journey around responsiveness, or more specifically, being more responsive to the people and situations around me.
 However, to be responsive, I realized I need events to respond to. I found, to be responsive, I also needed to be a more active participant in the lives of my friends as well. 
 Which leads me to my largest catalyst: Two friends very important to me had just moved across the country. Even more conveniently, my youngest sibling is beginning undergraduate just 40 miles away from my friends. 
-…
+-->
 In a therapy session before the start of the trip, I predicted two potential takeaways I might have at the end:
 As I joined the majority of my age group to move in with my parents, a year has passed since I've been truly on my own. It has been so long since I've had quality quiet, peaceful time to myself to recharge my introvert battery. Maybe I would come to realize just how dangerously I had been pushing myself over the last year to be more active friend that I was losing touch with my own needs?
 Maybe after all these months of hard work, I'd realize I've fundamentally changed who I am and find myself missing my friends. Rather than being relieved on the road, I'd constantly be excited to return from the trip to tell them about all the wonderful adventures I've been on! Was I capable of such a feat?
