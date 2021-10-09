@@ -1,5 +1,5 @@
 # A Sheltered Hermit's Reflections on a First Cross-Country Roadtrip
-"I swear I will NEVER drive long distances as long as I live." I kid you not, this is what I told myself, repeatedly, whenever I would drive home from university after my **two** hour drive. No sprawling traffic. No impending appointments to rush home to. My parents were even paying for the gas. Just a simple, 100 mile drive was enough to make me absolutely miserable. So how on Earth did I find myself on the precipice of what would end up being a 7,800+ mile, 22 day roadtrip?
+"I swear I will NEVER drive long distances as long as I live." I kid you not, this is what I told myself, repeatedly, whenever I would drive home from university after my **two** hour drive. No sprawling traffic. No impending appointments to rush home to. My parents were even paying for the gas. Just a simple, 100-mile drive was enough to make me absolutely miserable. So how on Earth did I find myself on the precipice of what would end up being a 7,800+ mile, 22 day roadtrip?
 
 ## A Season of Responsiveness
 <!-- This section is still in progress, and is just a summary of where I want to take it
