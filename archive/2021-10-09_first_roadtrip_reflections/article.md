@@ -2,11 +2,14 @@
 "I swear I will NEVER drive long distances as long as I live." I kid you not, this is what I told myself, repeatedly, whenever I would drive home from university after my **two** hour drive. No sprawling traffic. No impending appointments to rush home to. My parents were even paying for the gas. Just a simple, 100-mile drive was enough to make me absolutely miserable. So how on Earth did I find myself on the precipice of what would end up being a 7,800+ mile, 22 day roadtrip?
 
 ## A Season of Responsiveness
-<!-- This section is still in progress, and is just a summary of where I want to take it
-I'm socially dense as a rock; I want to change that. I promised myself to start listening to others and try to perceive them as they want to communicate to me. As such, I framed the next stage of my self-improvement journey around responsiveness, or more specifically, being more responsive to the people and situations around me.
-However, to be responsive, I realized I need events to respond to. I found, to be responsive, I also needed to be a more active participant in the lives of my friends as well. 
-Which leads me to my largest catalyst: Two friends very important to me had just moved across the country. Even more conveniently, my youngest sibling is beginning undergraduate just 40 miles away from my friends. 
--->
+As is the typical introvert story, I've struggled with perceiving social cues. Very often, I've missed "hints" from my friends and family, leading me to walk blindly into many a brick wall. When I found myself being increasingly surrounded by people who chose to communicate more passively, I added "directness" to my personal identity, as a defense mechanism of sorts. I told those around me, "If you don't tell me something to my face, I won't perceive it. So say it directly!" Yet, as I reflected on my faults, I found my unwillingness to address this character flaw was the root of many of my social issues; there was always this invisible force between me and my friends, and worse at times, I found my blindness ended up unintentionally hurting those I cared for most. More bluntly, I was forcing I promised myself to start listening to others and try to perceive them as they want to communicate to me. As such, I framed the next stage of my self-improvement journey around responsiveness, or more specifically, being more responsive to the people and situations around me.
+
+However, to be responsive, I realized I need events to respond to. I can't just twiddle my thumbs waiting for things to react to. I found, to be responsive, I also needed to be a more active participant in the lives of my friends as well.
+
+Which leads me to my largest catalyst: Two friends very important to me had just moved across the country. Even more conveniently, my youngest sibling is beginning undergraduate just 40 miles away from my friends.
+
+... 
+
 In a therapy session before the start of the trip, I predicted two potential takeaways I might have at the end:
 1. As I joined [the majority of my age group to move in with my parents](https://www.pewresearch.org/fact-tank/2020/09/04/a-majority-of-young-adults-in-the-u-s-live-with-their-parents-for-the-first-time-since-the-great-depression/), a year has passed since I've been truly on my own. It has been so long since I've had quality quiet, peaceful time to myself to recharge my introvert battery. Maybe I would come to realize just how dangerously I had been pushing myself over the last year to be more active friend that I was losing touch with my own needs?
 2. Maybe after all these months of hard work, I'd realize I've fundamentally changed who I am and find myself missing my friends. Rather than being relieved on the road, I'd constantly be excited to return from the trip to tell them about all the wonderful adventures I've been on! Was I capable of such a feat?
