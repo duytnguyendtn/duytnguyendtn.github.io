@@ -6,3 +6,5 @@ My name is Duy Nguyen (pronounced /`zwi/ or "Zwee"), and I'm an astronomy nerd! 
 * [GitHub](https://github.com/duytnguyendtn)
 * [LinkedIn](https://www.linkedin.com/in/duy-nguyen-csm-19944a95/)
 * [Medium](https://medium.com/@duytnguyendtn)
+
+![Astrophotography Sample](./assets/DSC_1020_RT02-Watermarked.jpg)
