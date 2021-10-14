@@ -1,0 +1,2 @@
+# Calcify/Archive
+This website was created using [Calcify/Archive](https://github.com/jtpond/calcifyarchive), developed by my good friend [@JTPond](https://github.com/jtpond), who helped me set this up! Head to https://github.com/jtpond/calcifyarchive to check it out, they're awesome!

@@ -77,8 +77,8 @@ window.addEventListener('DOMContentLoaded', () => {
         });
         let title = document.createElement('div');
         title.classList.add('title');
-        title.textContent = "DuyTestingTitle";
-        document.title = "Calcify/Archive";
+        title.textContent = "Welcome to Duy Nguyen's Website!";
+        document.title = "Duy Nguyen";
         let controls = document.createElement('div');
         controls.classList.add('controls');
         let f_links = (new TBarControls('/')).getUrlControl();
