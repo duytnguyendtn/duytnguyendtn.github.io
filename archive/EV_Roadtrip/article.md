@@ -1,0 +1,4 @@
+# My 7800 Mile EV Roadtrip was the Final Nail in the Gasoline Engine's Coffin
+What's stopping you from going fully electric? Not *hybrid* but **fully** electric? I don't mean this as a trick question to try and corner you; any answer to this question is a legitimate reason you are allowed to have! Rather I'd like you to honestly take a moment and think about **your** answer to this question. The one that ranks highest in my book is the extraordinary high cost as a barrier to entry (come on Elon, give us that $25k Tesla already!). But there are infinitely more out there!
+
+If your primary concern is about range or charging, you might be interested on how I accomplished a 7800 mile EV roadtrip in my Tesla Model 3. At the very least, what allowed me to seamlessly travel Cross Country without any range anxiety might help you decide what's important to shop for when you look for your first (or next) EV.
