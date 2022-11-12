@@ -18,7 +18,9 @@ After digging through the logs YET AGAIN, I find the two auth requests and do a 
 Some background: Most routers have a built-in NAS that allows you to share a drive connected to its USB port. I tried this before the Pi NAS, but the router was just too weak/old. But in that experiment, I ran into an issue where the router only supported SMB1.0, which was deprecated by Microsoft in favor of SMB2.0 due to security concerns. Computers couldn't connect because they dropped support for SMB1.0. That experiment taught me that protocol versions were VERY important here, and a deprecated protocol version could be blocked, preventing devices from connecting.
 
 I look back CLOSELY at the logs and I notice one tiny difference:
+
 `Auth: user [Computer 1]\[User] with [NTLMv2] status [NT_STATUS_OK]...`
+
 `Auth: user [Computer 2]\[User] with [NTLMv1] status [NT_STATUS_WRONG_PASSWORD]...`
 
 ## NTLMv2 vs NTLMv1
