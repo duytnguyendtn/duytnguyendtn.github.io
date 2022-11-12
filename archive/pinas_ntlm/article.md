@@ -26,7 +26,7 @@ I look back CLOSELY at the logs and I notice one tiny difference:
 ## NTLMv2 vs NTLMv1
 I've never heard of NTLM before, but I'm immediately suspicious of that difference because of how I got burned by the SMB1.0 issue earlier. A quick google search immediately returns this thread of a user describing my exact problem: https://forum.openmediavault.org/index.php?thread/38336-smb-shares-inaccessible-on-windows-7-and-10/
 
-Turns out NTLM (NT Lan Manager) is a security protocol that manages auth requests. And similar to SMB1.0, v1 was deprecated due to security concerns. OMV only supports, by default, NTLMv2 for auth. All the other computers at home are new enough that they default to NTLMv2. For WHATEVER REASON, my dad's corporate laptop is using NTLMv1. Luckily the thread has a flag to enable NTLMv1 auth, which *SUCCESS* fixes the issue!
+Turns out NTLM (NT Lan Manager) is a security protocol that manages auth requests. And similar to SMB1.0, v1 was deprecated due to security concerns. OMV only supports, by default, NTLMv2 for auth. All the other computers at home are new enough that they default to NTLMv2. For WHATEVER REASON, my dad's corporate laptop is using NTLMv1. Luckily the thread has a flag to enable NTLMv1 auth, which, *SUCCESS*, fixes the issue.
 
 It's not that I wasn't providing the right values for user/passw. It's that the protocol delivering the credential payload wasn't being accepted.
 
