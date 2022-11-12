@@ -33,3 +33,5 @@ It's not that I wasn't providing the right values for user/passw. It's that the 
 (╯°□°)╯︵ ┻━┻
 
 I'm going to bed.
+
+p.p.s. Credential-less (Guest) access is disabled by default on Windows 10 Enterprise starting on version v1709: https://learn.microsoft.com/en-us/troubleshoot/windows-server/networking/guest-access-in-smb2-is-disabled-by-default
