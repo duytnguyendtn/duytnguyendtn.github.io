@@ -31,4 +31,5 @@ Turns out NTLM (NT Lan Manager) is a security protocol that manages auth request
 It's not that I wasn't providing the right values for user/passw. It's that the protocol delivering the credential payload wasn't being accepted.
 
 (╯°□°)╯︵ ┻━┻
+
 I'm going to bed.
