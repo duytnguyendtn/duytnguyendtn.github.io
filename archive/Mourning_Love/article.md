@@ -70,7 +70,7 @@ Ostensibly, the primary thing I feared in that confession was losing them as a f
 
 Yet, my grief refuses to acknowledge any of that. My grief demands an audience to mourn the delusions of my hopes and dreams, delusions IT CREATED. It demands the spotlight and like a cruel comedian, takes pot-shots at the world around me, tainting and soiling the world around me.
 
-Why? What's the point of this? I have so much to do in this life, so much fun to have, so many people's company to enjoy. I could easily build a fulfilling and purposeful life around these elements; why was I created to be trapped in this rat race towards something that doesn't need to be in that list? The fact that my delusions of love are calling me to curl up in my bed and cry surrounded by a beautiful world is so...
+Why? What's the point of this? Why the hell should I actively search this out? I have so much to do in this life, so much fun to have, so many people's company to enjoy. I could easily build a fulfilling and purposeful life around these elements; why was I created to be trapped in this rat race towards something that doesn't need to be in that list? The fact that my delusions of love are calling me to curl up in my bed and cry surrounded by a beautiful world is so...
 
 Disgusting.
 
