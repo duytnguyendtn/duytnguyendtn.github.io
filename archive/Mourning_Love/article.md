@@ -24,7 +24,7 @@ Coming out of that all-consuming relationship, I found myself feeling isolated, 
 
 Disgusting.
 
-Despite everything that happened, when the person I cared for most kicked me into the pit of despair, those long abandoned people were the one who ultimately caught me. Despite the years of neglect, they were the ones who caught my head before it hit the floor. It was in that moment I saw just how deluded I had been and realized who really mattered in my life. And now with boundless time at my disposal, I've commited the last four years of my life to  one thing: connecting deeply with my friends and family, and growing my social sphere. It was my way of honoring the connections that ultimately saved me when I needed them most.
+Despite everything that happened, when the person I cared for most kicked me into the pit of despair, those long abandoned people were the ones who ultimately caught me despite the years of neglect. In that moment, I saw just how deluded I had been and realized who really mattered in my life. And now with boundless time at my disposal, I've commited the last four years of my life to one thing: connecting deeply with my friends and family, and growing my social sphere. It was my way of honoring the connections that ultimately saved me when I needed them most.
 
 ## Making Connection
 
@@ -56,15 +56,23 @@ But AS I was falling into that pit, before I was caught by my friends, the first
 
 On one hand, it is kind of expected I would still be thinking in terms of romantic relationships considering I hadn't reformed my way of thinking just yet, but I think it really does speak to the fact I find so frustrating, that I am not aromantic. As much as I wish I were, I can't avoid that fact. Silently, even as I started to reform my perspective, I have to admit I still was thinking about romance strategically, that "if I put myself out there to connect with people, then maybe as I'm making friends, someone will stand out to me and romance will happen naturally as well?"
 
-And, in short, it worked. It took longer, but I eventually found someone who I connected with on such a unique level, we both saw just how amazingly magnetic we were attracted to each other. With similar identities and shared heritage, we both felt seen in ways that neither of us felt before. Despite only knowing each other for a few months, our bond grew further than many other connections I made who had double or triple the marinade time.
+And, in short, it worked. It took longer, but I eventually found someone who I connected with on such a unique level, we both saw just how amazingly magnetic we were attracted to each other. With similar identities and shared heritage, I felt seen in ways that I had never felt before. Despite only knowing each other for a few months, our bond grew further than many other connections I made who had double or triple the marinade time.
 
 ## Romance Withdrawl
 
 Unfortunately for me, the romance part was unrequited.
 
-Even as I grew my friendship sphere and allowed myself to be vulnerable around my group of trusted friends, the void in my heart was unshakable, as if I were still missing a part of me. As I struggled to find someone that quite fit "the bill," I just told myself, "Just focus on building connection. If romance comes, it will come. Connection is important for romance, so don't get the end goal distract you from your job now." And as it kept getting further away, I deluded myself to think "Well, as your friends are starting to fill that role, maybe if I get enough friends, the hole will most certainly close."
+Even as I grew my friendship sphere and allowed myself to be vulnerable around my group of trusted friends, the void in my heart was unshakable, as if I were still missing a part of me. As I struggled to find someone that quite fit "the bill," I just told myself, "Just focus on building connection. If romance comes, trust it will come. Connection is important for romance, so don't let the end goal distract you from your job now." And as I started shifting my priorities towards building friendships, I deluded myself to think "Well, as your friends are starting to fill that role, maybe if I get enough friends, the hole will most certainly close."
 
 It most certainly did not.
+
+Ostensibly, the primary thing I feared in that confession was losing them as a friend; our connection was, and still is, much more important to me than the prospects of any romantic developments. And I thank the fates I still have that. But despite having that, because of this thing called "love," I now have to sit here and grieve. The *healthy* path here is to allow myself to anguish in sorrow while I allow the emotion to run its course.
+
+"In order to have the good, you have to have the bad. Emotions come as package deals; it's only because you can feel bad that you can feel good. Emotionless robots can't have either." I know this and understand it deeply; it's something I had to bash into my head constantly during my recovery from my previous relationship. It's not necessarily the grief *itself* that upsets me. I'm upset that grief prevents me from seeing all the lovely things I *know* are still there. The world I see around myself right now is grayscale, but I *know* the color is still there. All the things I enjoy doing are still here to bring joy into my life. I have so many people who care about me, and that I care for. I still have someone I was able to be vulnerable with AND still get to keep in my life; there is so much beauty in that.
+
+But my grief refuses to acknowledge any of that. My grief demands an audience to mourn the delusions of my hopes and dreams, delusions IT CREATED. It demands the spotlight and brings down the world around me.
+
+Why? What's the point of this? I have so much to do in this life, so much fun to have, so many people's company to enjoy. I could easily build a fulfilling and purposeful life around these elements; why was I created to be trapped in this rat race towards something that doesn't need to be in that list?
 
 ## Asking an alcoholic to a bar
 
