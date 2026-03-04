@@ -52,7 +52,7 @@ But AS I was falling into that pit, before I was caught by my friends, the first
 
 "How can I possibly find someone else, after all of this?"
 
-On one hand, it is kind of expected I'd still be thinking romantically since I hadn't reformed my way of thinking just yet, but I think it does speak to the fact I find so frustrating, that I am not aromantic. As much as I wish I were, I can't avoid that fact. Silently, even as I started to reform my perspective, I must admit I still was thinking about romance strategically, that "if I put myself out there to connect with people, then maybe as I'm making friends, someone will stand out to me and romance will happen naturally as well?"
+On one hand, it is kind of expected I'd still be thinking romantically since it would take the next half decade to truly reform my way of thinking, but I think it does speak to the fact I find so frustrating, that I am not aromantic. As much as I wish I were, I can't avoid that fact. Silently, even as I started to reform my perspective, I must admit I still was thinking about romance strategically, that "if I put myself out there to connect with people, then maybe as I'm making friends, someone will stand out to me and romance will happen naturally as well?"
 
 And, in short, it worked. It took longer, but I eventually found someone I connected with on such a unique level, we both saw just how amazingly magnetic we were attracted to each other. With similar identities and shared heritage, I felt seen in ways that I had never felt before. Despite only knowing each other for a few months, our bond grew further than many other connections I made who had double or triple the marinade time.
 
